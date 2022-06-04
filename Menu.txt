@@ -38,3 +38,15 @@ Succhi di Frutta
 Spremuta d'arancia  4,00€
 Succo di pesca      3,00€
 Succo di mela verde 3,00€
+
+
+ Secondi di Carne 
+
+      Pollo Arrosto     8.00 €
+      Scaloppine ai Funghi 8.00 €
+      Abbacchio Scottadito 10.00 €
+      Grigliata Mista  12.00 €
+      Abbacchio Al Forno  12.00 €
+      Filetto Al Pepe Verde  12.00 €
+      Saltimbocca Alla Romana 13.00 €
+      Tagliata Rucola e Grana 15.00 €
