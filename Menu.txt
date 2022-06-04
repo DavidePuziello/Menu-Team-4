@@ -1,0 +1,19 @@
+Cocktail & Long Drinks
+
+Amaretto Sour       8,00€
+Americano           7,00€
+Black Russian       8,00€
+Gin Fizz            8,00€
+
+Bibite
+
+Coca Cola           3,00€
+Fanta               3,00€
+Menta               3,00€
+Orzata              3,00€
+
+Succhi di Frutta
+
+Spremuta d'arancia  4,00€
+Succo di pesca      3,00€
+Succo di mela verde 3,00€
