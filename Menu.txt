@@ -1,23 +1,33 @@
-Menù primi
+Antipasti 
+
+-Tartare di Fassona    9,00€
+-Polpette fritte       4,00€
+-Carpaccio di manzo    9,00€
+-Mortadella alla brace  5,00€
+-Arrosticini            6,00€
+
+Primi
 
 
 Tagliatelle al ragù di cinghiale                 13€
-
 Risotto ai funghi porcini                        13€
-
 Penne all'arrabiata                               9€
-
 Lasagne al forno                                 10€
-
 Ravioli ripieni di ricotta e funghi porcini      13€
-
 Spaghetti alla carbonara                         10€
-
 Spaghetti all'amatriciana                         9€
-
 Spaghetti aglio e olio                            8€
 
+Secondi di Carne 
 
+      Pollo Arrosto     8.00 €
+      Scaloppine ai Funghi 8.00 €
+      Abbacchio Scottadito 10.00 €
+      Grigliata Mista  12.00 €
+      Abbacchio Al Forno  12.00 €
+      Filetto Al Pepe Verde  12.00 €
+      Saltimbocca Alla Romana 13.00 €
+      Tagliata Rucola e Grana 15.00 €
 
 Cocktail & Long Drinks
 
@@ -37,16 +47,4 @@ Succhi di Frutta
 
 Spremuta d'arancia  4,00€
 Succo di pesca      3,00€
-Succo di mela verde 3,00€
-
-
- Secondi di Carne 
-
-      Pollo Arrosto     8.00 €
-      Scaloppine ai Funghi 8.00 €
-      Abbacchio Scottadito 10.00 €
-      Grigliata Mista  12.00 €
-      Abbacchio Al Forno  12.00 €
-      Filetto Al Pepe Verde  12.00 €
-      Saltimbocca Alla Romana 13.00 €
-      Tagliata Rucola e Grana 15.00 €
+Succo di mela verde 3,00€ 
