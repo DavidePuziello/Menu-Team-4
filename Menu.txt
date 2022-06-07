@@ -1,0 +1,59 @@
+MENU' MEATGRAMMERS
+
+Antipasti 
+
+Tartare di Fassona    9,00€
+Polpette fritte       4,00€
+Carpaccio di manzo    9,00€
+Mortadella alla brace  5,00€
+Arrosticini            6,00€
+
+Primi
+
+Tagliatelle al ragù di cinghiale                 13,00€
+Risotto ai funghi porcini                        13,00€
+Penne all'arrabiata                               9,00€
+Lasagne al forno                                 10,00€
+Ravioli ripieni di ricotta e funghi porcini      13,00€
+Spaghetti alla carbonara                         10,00€
+Spaghetti all'amatriciana                         9,00€
+Spaghetti aglio e olio                            8,00€
+
+Secondi di Carne 
+
+Pollo Arrosto     8,00 €
+Scaloppine ai Funghi 8,00 €
+Abbacchio Scottadito 10,00 €
+Grigliata Mista  12,00 €
+Abbacchio Al Forno  12,00 €
+Filetto Al Pepe Verde  12,00 €
+Saltimbocca Alla Romana 13,00 €
+Tagliata Rucola e Grana 15,00 €
+      
+Dessert
+
+Cannoli siciliani 2,00€
+Cassata 3,00€
+Maritozzo con la panna 4,00€
+Pasticciotto 3,00€
+Pastiera napoletana 6,00€
+
+Cocktail & Long Drinks
+
+Amaretto Sour       8,00€
+Americano           7,00€
+Black Russian       8,00€
+Gin Fizz            8,00€
+
+Bibite
+
+Coca Cola           3,00€
+Fanta               3,00€
+Menta               3,00€
+Orzata              3,00€
+
+Succhi di Frutta
+
+Spremuta d'arancia  4,00€
+Succo di pesca      3,00€
+Succo di mela verde 3,00€ 
